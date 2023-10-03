@@ -44,4 +44,4 @@ const Luxury = () => {
   )
 }
 
-export default Luxury
+export default Luxury;
